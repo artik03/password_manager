@@ -37,4 +37,4 @@ SECRET_KEY=my_key
 # Usage
 
 1. To use create a shortcut to desktop and run index.js with node
-2. open localhost:3000
+2. open localhost:3000 in browser
